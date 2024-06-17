@@ -1,4 +1,4 @@
-#Models & Learning methods
+# Models & Learning methods
 cf. -NN(Neural Network)
 ## 0. Learning(Training)
 1. Online
