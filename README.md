@@ -1,6 +1,6 @@
 # Models & Learning methods
 cf. -NN(Neural Network)
-## 0. Learning(Training)
+### 0. Learning(Training)
 1. Online
 2. Batch
 3. Rule-based
@@ -15,11 +15,11 @@ cf. -NN(Neural Network)
 - Pre-trained
 - Fine-tuning
 
-### 0-1. Data
+##### 0-1. Data
 1. Image
 	1. Gray-scale : 2D Matrix → 3D Matrix if multiple photos.
 	2. Color: 3D Matrix (3 2D Matrix due to RGB.) → 4D Matrix if multiple photos.
-## 1. Tasks
+### 1. Tasks
 1. CV
 	1. Image Classification
 	2. Image Enhancement
@@ -46,13 +46,13 @@ cf. -NN(Neural Network)
 	1. k-NN
 	2. LOF(Local Outiler Factor)
 	3. Isolation Forest
-### 1-1. AI, not ML
+##### 1-1. AI, not ML
 - Rule-based Algorithm
 - Experts system: 특정 분야의 전문가처럼 동작하는 시스템.
  - First experts system: DENDRAL(1960s): 수많은 if else 구문으로 동작
 
 cf. ML은 Data-based이다. Rule-based의 단점은 수많은 데이터들의 공통점을 직접 찾아 그 한계 내에서 규칙을 찾아야 한다는 것인데, Data-based의 경우 직접 공통점을 찾기 때문에 정량적 해석이 불가능한 데이터도 높은 정확도로 처리 가능하게 한다. 
-### 1-2. ML Tasks & Methods
+##### 1-2. ML Tasks & Methods
 1. Supervised
 	1. Regression
 		1. Linear
@@ -75,7 +75,7 @@ cf. ML은 Data-based이다. Rule-based의 단점은 수많은 데이터들의 �
 		1. PCA(Principal Component Analysis)
 		2. SVD(Singular Value Decomposition)
 
-### 1-3. ML, not ANN: Data Base
+##### 1-3. ML, not ANN: Data Base
 1. NBC(Naive Bayesian Classifier)
 2. Decision Tree
 3. SVM(Support Vector Machine)
@@ -84,7 +84,7 @@ cf. ML은 Data-based이다. Rule-based의 단점은 수많은 데이터들의 �
 	1. Boosting
 	2. Random Forest
 
-### 1-4. ANN Structure: DNN Base
+##### 1-4. ANN Structure: DNN Base
 Mainly FFN(Feed-foward Neural Network) & RNN
 
 1. Perceptron → MLP(Multi Layor Perceptron)
@@ -97,17 +97,17 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 13. Diffusion Model
 14. SNN(Spike NN)
 	- 인간의 뇌를 모방 → Backpropagation X. 연구 중.
-### 1-5. Basic RL Model
+##### 1-5. Basic RL Model
 1. Q-learning → DQN(Deep Q-Network)
 2. MARL(Multi-agent reinforcement learning)
 
-### 1-6. Data Related Task
+##### 1-6. Data Related Task
 1. Data Cleaning
 2. Data Fitting
 3. Data Augmentation
 4. Data Visualization
 5. Data Preprocessing
-### 1-7. NLP Tasks
+##### 1-7. NLP Tasks
 1. Text Generation
 2. Machine Translation
 3. Question Asking
@@ -117,7 +117,7 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 
 ##### 1-8. Automated ML
 - AutoML
-## 2. CV Models
+### 2. CV Models
  **2-1. ImageNet**
  - Visual DB for Object Recognition
  - Established ImageNet(2010)
@@ -137,5 +137,5 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 - Faster R-CNN
 - RetinaNet
 
-## 3. NLP
+### 3. NLP
 - Switch Transformer
