@@ -1,3 +1,7 @@
+Contrastive Language-Image Pre-training
+
+
+
 # Models & Learning methods
 cf. -NN(Neural Network)
 ### 0. Learning(Training)
