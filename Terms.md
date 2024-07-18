@@ -1,4 +1,4 @@
-Contrastive Language-Image Pre-training
+CLIP(Contrastive Language-Image Pre-training)
 
 
 
