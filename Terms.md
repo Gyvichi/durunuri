@@ -19,10 +19,19 @@ cf. -NN(Neural Network)
 - Pre-trained
 - Fine-tuning
 
-##### 0-1. Data
+##### 0-1. Data Type
 1. Image
 	1. Gray-scale : 2D Matrix → 3D Matrix if multiple photos.
 	2. Color: 3D Matrix (3 2D Matrix due to RGB.) → 4D Matrix if multiple photos.
+
+##### 0-2. Data Annotation
+1. Bounding Box
+2. Polygon
+3. Polyline
+4. Point
+5. Cuboid
+6. Semantic Segmentation
+   
 ### 1. Tasks
 1. CV
 	1. Image Classification
@@ -31,7 +40,7 @@ cf. -NN(Neural Network)
 	4. Image Segmentation
 		1. Sementic
 		2. Instance
-	5. Imagee Thresholding
+	5. Image Thresholding
 	6. Image Transform
 	7. Image Clustering
 	8. Object Detection
@@ -46,10 +55,8 @@ cf. -NN(Neural Network)
 	4. Text-to-Speech
 3.  Feature Engineering
 4.  Density Estimation
-5.  Anomaly Detection
-	1. k-NN
-	2. LOF(Local Outiler Factor)
-	3. Isolation Forest
+5.  Anomaly Detection: LOF(Local Outiler Factor)
+6.  Binary Classification
 ##### 1-1. AI, not ML
 - Rule-based Algorithm
 - Experts system: 특정 분야의 전문가처럼 동작하는 시스템.
@@ -78,6 +85,7 @@ cf. ML은 Data-based이다. Rule-based의 단점은 수많은 데이터들의 �
 	2. Dimension Reduction
 		1. PCA(Principal Component Analysis)
 		2. SVD(Singular Value Decomposition)
+     	3. Isolation Forest
 
 ##### 1-3. ML, not ANN: Data Base
 1. NBC(Naive Bayesian Classifier)
