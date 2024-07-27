@@ -3,11 +3,15 @@
 - Scikit-learn: https://scikit-learn.org/stable/auto_examples/index.html
   - https://github.com/scikit-learn/scikit-learn
 - Papers with code: https://paperswithcode.com/
-- 
-
 
 ### 1. Paper Review
-- **Attention is All You Need** (Transformer)
-- **ƎUИИ : Efficiently Updatable Neural-Network-based Evaluation Functions for Computer Shogi** (NNUE)
-- **Sequence to Sequence Learning with Neural Networks** (Seq2Seq, Encoder-Decoder Model)
-- Real-Time Flying Object Detection with YOLOv8 (YOLOv8)
+- 1988, LeNet-5, **Gradient-Based Learning Applied to Document Recognition**
+
+- 2014, Seq2Seq, **Learning phrase representations using RNN encoder-decoder for statistical machine translation**
+  - 2014, Seq2Seq improvement, **Sequence to sequence learning with neural networks**
+  
+- 2017, Transformer, **Attention is All You Need**
+- 2018, NNUE, **ƎUИИ : Efficiently Updatable Neural-Network-based Evaluation Functions for Computer Shogi**
+
+  
+- 2024, AlphaFold3(AF3), **AlphaFold3 predicts the structure and interactions of all of life’s molecules**
