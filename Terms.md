@@ -1,9 +1,9 @@
 CLIP(Contrastive Language-Image Pre-training)
-
-
+PINN
 
 # Models & Learning methods
 cf. -NN(Neural Network)
+
 ### 0. Learning(Training)
 1. Online
 2. Batch
@@ -119,6 +119,7 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 3. Data Augmentation
 4. Data Visualization
 5. Data Preprocessing
+   
 ##### 1-7. NLP Tasks
 1. Text Generation
 2. Machine Translation
@@ -151,3 +152,4 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 
 ### 3. NLP
 - Switch Transformer
+- Swin Transformer
