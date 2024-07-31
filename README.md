@@ -5,8 +5,6 @@
 - Papers with code: https://paperswithcode.com/
 
 ### 1. Paper Review
-- 1988, LeNet-5, **Gradient-Based Learning Applied to Document Recognition**
-
 - 2014, Seq2Seq, **Learning phrase representations using RNN encoder-decoder for statistical machine translation**
   - 2014, Seq2Seq improvement, **Sequence to sequence learning with neural networks**
   
