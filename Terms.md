@@ -66,25 +66,14 @@ cf. ML은 Data-based이다. Rule-based의 단점은 수많은 데이터들의 �
 ##### 1-2. ML Tasks & Methods
 1. Supervised
 	1. Regression
-		1. Linear
-		2. Ridge
-		3. Lasso
 	2. Classification
-		1. k-NN(k-Nearest Neighbor)
-		2. SVM
-		3. NBC
 	3. Localization
 	4. Object Detection
 	5. Pose Estimation
 	
 2. Unsupervised
 	1. Cluster Analysis(군집화)
-		1. k-means
-		2. DBSCAN(Density-based spatial clustering of applications with noise)
-			1. OPTICS(Ordering Points To Identify Cluster Structure)
 	2. Dimension Reduction
-		1. PCA(Principal Component Analysis)
-		2. SVD(Singular Value Decomposition)
      	3. Isolation Forest
 
 ##### 1-3. ML, not ANN: Data Base
@@ -109,9 +98,6 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 13. Diffusion Model
 14. SNN(Spike NN)
 	- 인간의 뇌를 모방 → Backpropagation X. 연구 중.
-##### 1-5. Basic RL Model
-1. Q-learning → DQN(Deep Q-Network)
-2. MARL(Multi-agent reinforcement learning)
 
 ##### 1-6. Data Related Task
 1. Data Cleaning
@@ -127,29 +113,3 @@ Mainly FFN(Feed-foward Neural Network) & RNN
 4. Context Extraction
 5. Sentiment Analysis
 6. Topic Modeling
-
-##### 1-8. Automated ML
-- AutoML
-### 2. CV Models
- **2-1. ImageNet**
- - Visual DB for Object Recognition
- - Established ImageNet(2010)
- - Host ILSRVC
- 
- **2-2. SOTA Models on ImageNet DB**
- - ILSRVC Classification Results(CLS)
-
-|                |       | 2014    | 2015   |
-| :------------- | ----: | ------- | ------ |
-| Model          | Human | VGG-Net | ResNet |
-| Algorithm Base |       | CNN     | CNN    |
-| Error[%]       |   5.1 | 6.7     | 3.6    |
-- Vision Transformer(2020)
-
-**2-3. Object Detection Model**
-- Faster R-CNN
-- RetinaNet
-
-### 3. NLP
-- Switch Transformer
-- Swin Transformer
