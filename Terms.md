@@ -1,6 +1,3 @@
-CLIP(Contrastive Language-Image Pre-training)
-PINN
-
 # Models & Learning methods
 cf. -NN(Neural Network)
 
