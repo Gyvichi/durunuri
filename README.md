@@ -5,6 +5,4 @@
 - Papers with code: https://paperswithcode.com/
 
 ### 1. Paper Review
-- 1998, LeNet-5,  **Gradient-Based Learning Applied to Document Recognition**
 - 2017, Transformer, **Attention is All You Need**
-- 2018, NNUE, **ƎUИИ : Efficiently Updatable Neural-Network-based Evaluation Functions for Computer Shogi**
