@@ -5,4 +5,5 @@
 - Papers with code: https://paperswithcode.com/
 - GPU: https://lambdalabs.com/
 - LLM Analysis: https://artificialanalysis.ai/
-- 고급 논문 리뷰: https://ostin.tistory.com/?page=4
+
+열심히 공부해요!
