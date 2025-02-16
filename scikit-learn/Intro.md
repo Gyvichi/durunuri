@@ -10,3 +10,6 @@ This repository ONLY considers non-DL algorithms.
 - Diensionality Reduction : PCA, SVD, tSNE
 - Model Selection and Evaluation : Cross-Validation, GridSearch
 - Feature Selection
+
+##### Ref.
+Scikit-learn at open data science conference : https://github.com/amueller/odscon-2015
