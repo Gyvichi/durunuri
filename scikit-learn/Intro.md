@@ -1,8 +1,14 @@
 Scikit-learn is machine learning tool built on NumPy, SciPy, and matplotlib.
 This repository ONLY considers non-DL algorithms.
 
+## 1. Cheatsheet : sklearn commands
+
+
+##### Estimators
+
 - Linear Models : Ridge, Lasso, Bayesian, Logistic, Polynomial, etc.
 - Nearest Neighbors
+- SVM
 - Decision Trees : CART
 - Ensembles : Gradient Boosting, Random Forest, Bagging, Voting, Stacking.
   - AdaBoost
