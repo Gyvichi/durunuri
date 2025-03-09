@@ -7,8 +7,8 @@
   - galaxyCNN
   - Tautochrone-rl : Q-learning to predict brachistochrone curve under gravitational field.
   - shm : SVD-LOF codes with arduino
-
-poly-Canonical : cpp implementation of "A polynomial-time algorithm for the change-making problem".
+- ps
+  - poly-Canonical : cpp implementation of "A polynomial-time algorithm for the change-making problem".
 
 MCLD, galaxy code
-Newton-Raphson, numerical analysis of ODEs, LOF, SVD, ellipsoid estimation, and etc are not included since they can be easily generated with GenAIs and simply utilizes library functions.
+Newton-Raphson, numerical analysis of ODEs, LOF, SVD, ellipsoid estimation
