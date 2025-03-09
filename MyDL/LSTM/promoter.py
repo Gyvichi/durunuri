@@ -1,8 +1,5 @@
 '''
-Michael Remington
-Promoter Identification with an LSTM
-
-http://remingm.github.io/machine/learning/tensorflow/neural/networks/bioinformatics/2016/07/13/promoter-analysis.html
+Promoter identification with LSTM
 
 This code loads promoter sequences and labels, converts the sequences
 to numbers via a dictionary, splits the data into randomly shuffled train
