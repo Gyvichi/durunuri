@@ -10,5 +10,7 @@
 - ps
   - poly-Canonical : cpp implementation of "A polynomial-time algorithm for the change-making problem".
 
+DL intro : MyDL/Tutorial $\rightarrow$ 3-min-PyTorch
+
 MCLD, galaxy code
 Newton-Raphson, numerical analysis of ODEs, LOF, SVD, ellipsoid estimation
